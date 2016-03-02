@@ -51,7 +51,8 @@ You'll need *client_email* and *private_key*.
 
 ::
 
-    pip install --upgrade oauth2client
+    pip install oauth2client==1.5.2
+
 
 Depending on your system setup you may need to install PyOpenSSL:
 
